@@ -6,6 +6,7 @@
 	],
 	"extensions": {
 		"recommendations": [
+			"GrapeCity.gc-excelviewer",
 			"ms-python.python",
 			"ms-python.vscode-pylance",
 			"donjayamanne.python-environment-manager",
