@@ -15,7 +15,7 @@ python -m venv venv
 .\venv\Scripts\activate 
 + (venv) should appear as prefix to all command (run next command just after activating venv)
 #update venv's python package-installer (pip) to its latest version
-pip install --upgrade pip
+.\venv\Scripts\python.exe -m pip install --upgrade pip
 #install projects packages
 pip install -e .[dev]     
 ``` 

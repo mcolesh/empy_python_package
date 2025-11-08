@@ -18,6 +18,7 @@ dev = [
     "my-project[test]",
     "my-project[doc]",
     "my-project[build]",
+    "jupyterlab==4.4.10",
 ]
 ds = [
     "numpy==2.1.3",
